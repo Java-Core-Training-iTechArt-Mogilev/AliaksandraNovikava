@@ -13,7 +13,7 @@ public class HW2 {
             System.out.print(array[i]+" ");
         }
 
-boolean isSorted = false;
+
 int buf;
         for(int j =0; j< array.length;j++ ) {
             for (int i = 0; i < array.length - 1; i++) {
